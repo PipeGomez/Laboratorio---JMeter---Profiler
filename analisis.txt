@@ -1,0 +1,9 @@
+- Podemos observar que al ingresar el nuevo producto por medio de JMeter
+  ahora aparecerá en el cuando consultamos desde el browser. Al modificar
+  el número de usuarios, al momento de consultar la información este aparecerá 
+  tantas veces como usuarios hayan; y esto lo que significa es la simulación de
+  la concurrencia al momento de que muchos usuarios la consulten.
+
+- El comportamiento de la memoria cambia al momento de aumentar el número de 
+  usuarios, la aplicación tiene alta capacidad así como la del computador lo 
+  cual solo hace que aumnete el uso un poco.Memoria
